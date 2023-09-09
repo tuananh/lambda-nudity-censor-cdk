@@ -1,7 +1,9 @@
 lambda-nudity-censor-cdk
 ------------------------
 
-This is very much work-in-progress as I'm dumping the code from old archive.
+This is very much work-in-progress as I'm dumping the code from old archive as well as upgrading to CDK v2 in the process.
+
+![](./assets/sample.jpg)
 
 ## Usage
 
